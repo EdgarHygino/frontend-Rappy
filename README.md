@@ -8,36 +8,34 @@ Projeto usando ReactJs e NodeJs
 
 Confira as telas abaixo.
 
+=========
+## Preview
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-17.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-21.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-28.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-32.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-41.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-43.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-52.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-55.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-24.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-32.png))
 
 
-<<<<<<< HEAD
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png))
-=======
-![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png)
->>>>>>> 64663a8b69423e9f8523542be784382401206557
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-17.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-21.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-28.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-32.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-41.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-43.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-52.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-55.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-24.png))
-
-![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-32.png))
-
-
-
+========
+## 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
