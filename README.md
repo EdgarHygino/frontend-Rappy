@@ -1,3 +1,25 @@
+## Rappy 
+
+## App destinado a um projeto social onde insentiva a visitação em orfanatos.
+
+## Projeto realisado através do projeto Next Level Week - Rocketseat.
+
+Projeto usando ReactJs e NodeJs 
+
+Confira as telas abaixo.
+
+
+
+![Alt text](images/Captura de tela de 2020-11-07 10-33-05.png?raw=true "Title")
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
