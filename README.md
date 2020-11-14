@@ -10,12 +10,27 @@ Confira as telas abaixo.
 
 
 
-![Alt text](images/Captura de tela de 2020-11-07 10-33-05.png?raw=true "Title")
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png))
 
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-17.png))
 
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-21.png))
 
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-28.png))
 
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-32.png))
 
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-41.png))
+
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-43.png))
+
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-52.png))
+
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-55.png))
+
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-24.png))
+
+![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-32.png))
 
 
 
