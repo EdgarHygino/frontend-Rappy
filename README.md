@@ -10,7 +10,7 @@ Confira as telas abaixo.
 
 
 
-![App](./images/Captura de tela de 2020-11-07 10-33-05.png)
+![App](/images/Captura de tela de 2020-11-07 10-33-05.png)
 
 
 
