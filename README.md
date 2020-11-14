@@ -1,6 +1,6 @@
 ## Rappy 
 
-## App destinado a um projeto social onde insentiva a visitação em orfanatos.
+## App destinado a um projeto social onde incentiva a visitação em orfanatos.
 
 ## Projeto realisado através do projeto Next Level Week - Rocketseat.
 
