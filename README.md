@@ -10,7 +10,11 @@ Confira as telas abaixo.
 
 
 
+<<<<<<< HEAD
 ![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png))
+=======
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png)
+>>>>>>> 64663a8b69423e9f8523542be784382401206557
 
 ![App](![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-17.png))
 
