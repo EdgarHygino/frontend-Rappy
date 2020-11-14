@@ -1,3 +1,42 @@
+## Rappy 
+
+## App destinado a um projeto social onde insentiva a visitação em orfanatos.
+
+## Projeto realisado através do projeto Next Level Week - Rocketseat.
+
+Projeto usando ReactJs e NodeJs 
+
+Confira as telas abaixo.
+
+=========
+## Preview
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-17.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-21.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-28.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-32.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-41.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-43.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-52.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-19-55.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-24.png))
+
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2011-20-32.png))
+
+
+========
+## 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
