@@ -10,7 +10,7 @@ Confira as telas abaixo.
 
 
 
-![App](/images/Captura de tela de 2020-11-07 10-33-05.png)
+![App](https://github.com/EdgarHygino/frontend-Rappy/blob/developer-1/images/Captura%20de%20tela%20de%202020-11-07%2010-33-05.png)
 
 
 
